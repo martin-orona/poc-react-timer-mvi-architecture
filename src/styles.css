@@ -1,0 +1,19 @@
+body {
+  background-color: #ddd;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.timer-settable-value > input[type="text"] {
+  max-width: 2em;
+  text-align: center;
+}
+
+.actions {
+  margin-top: 0.5em;
+}
+.actions > button {
+  margin-right: 0.5em;
+}
